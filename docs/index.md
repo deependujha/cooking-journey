@@ -9,3 +9,4 @@
 ## Contents
 
 1. [Spices](./01-basics/01-spices.md)
+2. [Leaves](./01-basics/02-leaves.md)

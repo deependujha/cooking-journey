@@ -121,3 +121,5 @@ nav:
     - Home: index.md
     - Basics:
       - Spices: 01-basics/01-spices.md
+      - Leaves: 01-basics/02-leaves.md
+      - Vegetables: 01-basics/03-vegetables.md
